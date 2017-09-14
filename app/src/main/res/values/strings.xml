@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">sensornative</string>
+    <string name="app_open">open</string>
+    <string name="app_close">close</string>
+</resources>
